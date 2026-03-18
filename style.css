@@ -162,7 +162,7 @@ body {
     display: flex;
     height: 100%;
     width: 100%;
-    background: linear-gradient(180deg, #0F0804 0%, rgba(0,0,0,0.6) 100%);
+    backround: linear-gradient(180deg, #0F0804 0%, rgba(0,0,0,0.6) 100%);
 }
 
 .footer__text {
